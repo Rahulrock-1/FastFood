@@ -1,0 +1,17 @@
+D:\CleanArchitecture\FastFood\FastFood.Infrastructure\bin\Debug\net6.0\FastFood.Infrastructure.deps.json
+D:\CleanArchitecture\FastFood\FastFood.Infrastructure\bin\Debug\net6.0\FastFood.Infrastructure.dll
+D:\CleanArchitecture\FastFood\FastFood.Infrastructure\bin\Debug\net6.0\FastFood.Infrastructure.pdb
+D:\CleanArchitecture\FastFood\FastFood.Infrastructure\obj\Debug\net6.0\FastFood.Infrastructure.csproj.AssemblyReference.cache
+D:\CleanArchitecture\FastFood\FastFood.Infrastructure\obj\Debug\net6.0\FastFood.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\CleanArchitecture\FastFood\FastFood.Infrastructure\obj\Debug\net6.0\FastFood.Infrastructure.AssemblyInfoInputs.cache
+D:\CleanArchitecture\FastFood\FastFood.Infrastructure\obj\Debug\net6.0\FastFood.Infrastructure.AssemblyInfo.cs
+D:\CleanArchitecture\FastFood\FastFood.Infrastructure\obj\Debug\net6.0\FastFood.Infrastructure.csproj.CoreCompileInputs.cache
+D:\CleanArchitecture\FastFood\FastFood.Infrastructure\obj\Debug\net6.0\FastFood.Infrastructure.dll
+D:\CleanArchitecture\FastFood\FastFood.Infrastructure\obj\Debug\net6.0\refint\FastFood.Infrastructure.dll
+D:\CleanArchitecture\FastFood\FastFood.Infrastructure\obj\Debug\net6.0\FastFood.Infrastructure.pdb
+D:\CleanArchitecture\FastFood\FastFood.Infrastructure\obj\Debug\net6.0\ref\FastFood.Infrastructure.dll
+D:\CleanArchitecture\FastFood\FastFood.Infrastructure\bin\Debug\net6.0\FastFood.Application.dll
+D:\CleanArchitecture\FastFood\FastFood.Infrastructure\bin\Debug\net6.0\FastFood.Application.pdb
+D:\CleanArchitecture\FastFood\FastFood.Infrastructure\obj\Debug\net6.0\FastFood.Infrastructure.csproj.CopyComplete
+D:\CleanArchitecture\FastFood\FastFood.Infrastructure\bin\Debug\net6.0\FastFood.Domain.dll
+D:\CleanArchitecture\FastFood\FastFood.Infrastructure\bin\Debug\net6.0\FastFood.Domain.pdb

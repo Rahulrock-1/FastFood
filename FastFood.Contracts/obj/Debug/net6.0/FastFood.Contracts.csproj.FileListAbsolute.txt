@@ -1,0 +1,11 @@
+D:\CleanArchitecture\FastFood\FastFood.Contracts\bin\Debug\net6.0\FastFood.Contracts.deps.json
+D:\CleanArchitecture\FastFood\FastFood.Contracts\bin\Debug\net6.0\FastFood.Contracts.dll
+D:\CleanArchitecture\FastFood\FastFood.Contracts\bin\Debug\net6.0\FastFood.Contracts.pdb
+D:\CleanArchitecture\FastFood\FastFood.Contracts\obj\Debug\net6.0\FastFood.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\CleanArchitecture\FastFood\FastFood.Contracts\obj\Debug\net6.0\FastFood.Contracts.AssemblyInfoInputs.cache
+D:\CleanArchitecture\FastFood\FastFood.Contracts\obj\Debug\net6.0\FastFood.Contracts.AssemblyInfo.cs
+D:\CleanArchitecture\FastFood\FastFood.Contracts\obj\Debug\net6.0\FastFood.Contracts.csproj.CoreCompileInputs.cache
+D:\CleanArchitecture\FastFood\FastFood.Contracts\obj\Debug\net6.0\FastFood.Contracts.dll
+D:\CleanArchitecture\FastFood\FastFood.Contracts\obj\Debug\net6.0\refint\FastFood.Contracts.dll
+D:\CleanArchitecture\FastFood\FastFood.Contracts\obj\Debug\net6.0\FastFood.Contracts.pdb
+D:\CleanArchitecture\FastFood\FastFood.Contracts\obj\Debug\net6.0\ref\FastFood.Contracts.dll

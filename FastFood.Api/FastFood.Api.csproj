@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>03c87cb1-7357-4cab-be29-9f95d8ef3b1e</UserSecretsId>
+  </PropertyGroup>
+
+  <!-- <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+  </ItemGroup> -->
+
+  <ItemGroup>
+    <ProjectReference Include="..\FastFood.Contracts\FastFood.Contracts.csproj" />
+    <ProjectReference Include="..\FastFood.Application\FastFood.Application.csproj" />
+    <ProjectReference Include="..\FastFood.Infrastructure\FastFood.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

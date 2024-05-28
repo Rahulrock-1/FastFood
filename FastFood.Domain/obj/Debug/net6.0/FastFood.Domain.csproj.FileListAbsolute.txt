@@ -1,0 +1,12 @@
+D:\CleanArchitecture\FastFood\FastFood.Domain\bin\Debug\net6.0\FastFood.Domain.deps.json
+D:\CleanArchitecture\FastFood\FastFood.Domain\bin\Debug\net6.0\FastFood.Domain.dll
+D:\CleanArchitecture\FastFood\FastFood.Domain\bin\Debug\net6.0\FastFood.Domain.pdb
+D:\CleanArchitecture\FastFood\FastFood.Domain\obj\Debug\net6.0\FastFood.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\CleanArchitecture\FastFood\FastFood.Domain\obj\Debug\net6.0\FastFood.Domain.AssemblyInfoInputs.cache
+D:\CleanArchitecture\FastFood\FastFood.Domain\obj\Debug\net6.0\FastFood.Domain.AssemblyInfo.cs
+D:\CleanArchitecture\FastFood\FastFood.Domain\obj\Debug\net6.0\FastFood.Domain.csproj.CoreCompileInputs.cache
+D:\CleanArchitecture\FastFood\FastFood.Domain\obj\Debug\net6.0\FastFood.Domain.dll
+D:\CleanArchitecture\FastFood\FastFood.Domain\obj\Debug\net6.0\refint\FastFood.Domain.dll
+D:\CleanArchitecture\FastFood\FastFood.Domain\obj\Debug\net6.0\FastFood.Domain.pdb
+D:\CleanArchitecture\FastFood\FastFood.Domain\obj\Debug\net6.0\ref\FastFood.Domain.dll
+D:\CleanArchitecture\FastFood\FastFood.Domain\obj\Debug\net6.0\FastFood.Domain.csproj.AssemblyReference.cache

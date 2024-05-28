@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "3aK9nmTCsxdSnEvmmy+7qNMMsPprLNdDA0rG7PxG+OXcdNwUJY2/p+UWkBdBiTBNmMBF35jMSpRWTQrToB3n3A==",
+  "success": true,
+  "projectFilePath": "D:\\CleanArchitecture\\FastFood\\FastFood.Domain\\FastFood.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rahul\\.nuget\\packages\\erroror\\2.0.1\\erroror.2.0.1.nupkg.sha512",
+    "C:\\Users\\Rahul\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Rahul\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Rahul\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
